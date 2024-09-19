@@ -1,5 +1,3 @@
-Here’s a sample README file for your GitHub repository that includes the information about the labs and exercises you mentioned, while omitting Lab 7, Lab 8, and Lab 10:
-
 ---
 
 # Lab Assignments Repository
@@ -87,3 +85,5 @@ This lab explores lambda expressions and the Stream API:
 3. **Exercise 3:** Authenticate username and password with lambda expressions.
 4. **Exercise 4:** Demonstrate instance creation using method references.
 5. **Exercise 5:** Calculate factorial using method reference.
+   
+---
