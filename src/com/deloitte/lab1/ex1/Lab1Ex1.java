@@ -14,7 +14,7 @@ public class Lab1Ex1 {
     }
 
     public static void main(String[] args) {
-        int number = 29;
+        int number = 29; // Example
         int result = sumOfCubes(number);
         System.out.println("The sum of cubes of the digits of " + number + " is: " + result);
     }
